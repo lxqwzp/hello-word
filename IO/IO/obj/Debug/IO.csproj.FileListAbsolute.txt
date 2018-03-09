@@ -1,0 +1,6 @@
+D:\Archives\C#Study\IO\IO\bin\Debug\IO.exe.config
+D:\Archives\C#Study\IO\IO\bin\Debug\IO.exe
+D:\Archives\C#Study\IO\IO\bin\Debug\IO.pdb
+D:\Archives\C#Study\IO\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+D:\Archives\C#Study\IO\IO\obj\Debug\IO.exe
+D:\Archives\C#Study\IO\IO\obj\Debug\IO.pdb

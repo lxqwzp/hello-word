@@ -1,0 +1,6 @@
+D:\Archives\C#Study\IOWrite\IOWrite\bin\Debug\IOWrite.exe.config
+D:\Archives\C#Study\IOWrite\IOWrite\bin\Debug\IOWrite.exe
+D:\Archives\C#Study\IOWrite\IOWrite\bin\Debug\IOWrite.pdb
+D:\Archives\C#Study\IOWrite\IOWrite\obj\Debug\IOWrite.csprojResolveAssemblyReference.cache
+D:\Archives\C#Study\IOWrite\IOWrite\obj\Debug\IOWrite.exe
+D:\Archives\C#Study\IOWrite\IOWrite\obj\Debug\IOWrite.pdb
